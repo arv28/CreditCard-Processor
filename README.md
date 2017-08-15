@@ -1,7 +1,5 @@
 # CreditCard-Processor
-A program that will add new credit card accounts, process charges and credits and display summary information
-
-Imagine that you're writing software for a credit card provider.  Implement a program that will add new credit card accounts, process charges and credits against them, and display summary information.
+A program that will add new credit card accounts, process charges and credits and display summary information for a credit card provider.
 
 ## Requirements:
 - This program accepts input from two sources: a filename passed in command line arguments and STDIN. For example, on Linux or OSX both
